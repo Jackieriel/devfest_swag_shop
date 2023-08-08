@@ -1,5 +1,5 @@
 <p style="text-algin:center">
- <h2>DevFest Swag Shop</h2>
+ <h2>DEVFEST SWAG SHOP</h2>
 </p>
 
 ## Description
