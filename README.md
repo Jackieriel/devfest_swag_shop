@@ -1,4 +1,4 @@
-<p align="center">
+<p style="text-algin:center">
  <h2>DevFest Swag Shop</h2>
 </p>
 
